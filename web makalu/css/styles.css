@@ -1620,7 +1620,11 @@ input[type='checkbox'] {
 	padding-top: 6.875rem;
 	padding-bottom: 5.25rem;
 }
-
+.qr {
+	float: right;       /* Mueve la imagen al lado derecho */
+	margin-left: 20px;  /* Añade un margen a la izquierda, opcional */
+  }
+  
 .counter .image-container {
 	margin-bottom: 3rem;
 }
