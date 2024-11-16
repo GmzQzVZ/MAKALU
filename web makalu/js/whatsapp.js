@@ -20,8 +20,8 @@ var input_select1 = $("#wa_select :selected").text(),
     input_name1 = $("#wa_name").val(),
     input_email1 = $("#wa_email").val(),
     input_number1 = $("#wa_number").val(),
-    input_adult1 = $("#wa_url").val(),
-    input_children1 = $("#wa_url").val(),
+    input_adult1 = $("#wa_adult").val(),
+    input_children1 = $("#wa_children").val(),
     input_textarea1 = $("#wa_textarea").val();
 
 /* Final Whatsapp URL */
